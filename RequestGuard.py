@@ -14,7 +14,7 @@ class RequestGuard:
     def parse_robots(self):
         """find all forbidden paths after Disallow"""
         robots_obj = requests.get(f'{self.scheme}://{self.domain}/robots.txt')
-        return re.findall(r"Disallow: (.*)", robots_obj.text)
+        return re.findall(r"Disallow: (.*)", robots_obj.text.split('User-agent: *', 1)[1])
 
     def can_follow_link(self, url):
         """Does the link start with the stored domain?
