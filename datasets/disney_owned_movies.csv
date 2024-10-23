@@ -58,8 +58,8 @@
 56,57,Logan,"$226,277,068","4,071","$88,411,916","4,071","Mar 3, 2017",Twentieth Century Fox,Marvel Comics
 57,58,Shang-Chi and the Legend of the Ten Rings,"$224,543,292","4,300","$75,388,688","4,300","Sep 3, 2021",Walt Disney Studios Motion Pictures,Marvel Comics
 58,59,WALL·E,"$223,808,164","3,992","$63,087,526","3,992","Jun 27, 2008",Walt Disney Studios Motion Pictures,Pixar
-59,60,Big Hero 6,"$222,527,828","3,773","$56,215,889","3,773","Nov 7, 2014",Walt Disney Studios Motion Pictures,Walt Disney Animation Studios
-60,61,Big Hero 6,"$222,527,828","3,773","$56,215,889","3,773","Nov 7, 2014",Walt Disney Studios Motion Pictures,Marvel Comics
+59,60,Big Hero 6,"$222,527,828","3,773","$56,215,889","3,773","Nov 7, 2014",Walt Disney Studios Motion Pictures,Marvel Comics
+60,61,Big Hero 6,"$222,527,828","3,773","$56,215,889","3,773","Nov 7, 2014",Walt Disney Studios Motion Pictures,Walt Disney Animation Studios
 61,62,Ant-Man and the Wasp,"$216,648,740","4,206","$75,812,205","4,206","Jul 6, 2018",Walt Disney Studios Motion Pictures,Marvel Comics
 62,63,X2: X-Men United,"$214,949,694","3,749","$85,558,731","3,749","May 2, 2003",Twentieth Century Fox,Marvel Comics
 63,64,Solo: A Star Wars Story,"$213,767,512","4,381","$84,420,489","4,381","May 25, 2018",Walt Disney Studios Motion Pictures,Lucasfilm
@@ -186,27 +186,20 @@
 184,185,Teacher's Pet,"$6,491,969","2,027","$2,461,252","2,027","Jan 16, 2004",Walt Disney Studios Motion Pictures,Disney Channel
 185,186,Once Upon a Deadpool2018 Re-release,"$6,100,309","1,566","$2,683,200","1,566","Dec 12, 2018",Twentieth Century Fox,Marvel Comics
 186,187,Columbia 100th Anniversary SeriesColumbia 100th Anniversary Series,"$6,013,515",466,"$18,856",466,"Apr 15, 2024",Sony Pictures Releasing,Marvel Comics
-187,188,Columbia 100th Anniversary SeriesColumbia 100th Anniversary Series,"$6,013,515",466,"$18,856",466,"Apr 15, 2024",Sony Pictures Releasing,Marvel Comics
-188,189,Columbia 100th Anniversary SeriesColumbia 100th Anniversary Series,"$6,013,515",466,"$18,856",466,"Apr 15, 2024",Sony Pictures Releasing,Marvel Comics
-189,190,Columbia 100th Anniversary SeriesColumbia 100th Anniversary Series,"$6,013,515",466,"$18,856",466,"Apr 15, 2024",Sony Pictures Releasing,Marvel Comics
-190,191,Columbia 100th Anniversary SeriesColumbia 100th Anniversary Series,"$6,013,515",466,"$18,856",466,"Apr 15, 2024",Sony Pictures Releasing,Marvel Comics
-191,192,Columbia 100th Anniversary SeriesColumbia 100th Anniversary Series,"$6,013,515",466,"$18,856",466,"Apr 15, 2024",Sony Pictures Releasing,Marvel Comics
-192,193,Columbia 100th Anniversary SeriesColumbia 100th Anniversary Series,"$6,013,515",466,"$18,856",466,"Apr 15, 2024",Sony Pictures Releasing,Marvel Comics
-193,194,Columbia 100th Anniversary SeriesColumbia 100th Anniversary Series,"$6,013,515",466,"$18,856",466,"Apr 15, 2024",Sony Pictures Releasing,Marvel Comics
-194,195,Raiders of the Lost Ark2012 IMAX Release,"$3,125,613",322,"$1,673,731",322,"Sep 7, 2012",Paramount Pictures,Lucasfilm
-195,196,Star Wars: Episode V - The Empire Strikes Back2020 Re-release,"$2,482,000","2,097","$611,000","2,097","Jul 10, 2020",Walt Disney Studios Motion Pictures,Lucasfilm
-196,197,Inhumans,"$1,521,787",393,"$1,135,440",393,"Sep 1, 2017",IMAX,Marvel Comics
-197,198,Turning Red,"$1,399,001","1,560","$578,047","1,560","Feb 9, 2024",Walt Disney Studios Motion Pictures,Pixar
-198,199,Rogue One: A Star Wars Story2022 Re-release,"$1,362,667",255,"$1,060,459",255,"Aug 26, 2022",Walt Disney Studios Motion Pictures,Lucasfilm
-199,200,Luca,"$1,324,302","1,390",-,"1,390","Jun 18, 2021",Walt Disney Studios Motion Pictures,Pixar
-200,201,Radioland Murders,"$1,316,865",844,"$835,570",844,"Oct 21, 1994",Universal Pictures,Lucasfilm
-201,202,Labyrinth2018 Re-release,"$993,336",685,"$558,857",685,"Apr 29, 2018",Fathom Events,Lucasfilm
-202,203,Soul,"$946,154","1,360","$431,840","1,360","Jan 12, 2024",Walt Disney Studios Motion Pictures,Pixar
-203,204,Toy Story2020 Re-release,"$727,000","2,102","$505,000","2,102","Nov 6, 2020",Walt Disney Studios Motion Pictures,Pixar
-204,205,"Monsters, Inc.2020 Re-release","$726,000","1,875","$494,000","1,875","Oct 23, 2020",Walt Disney Studios Motion Pictures,Pixar
-205,206,Guardians of the Galaxy2020 Re-release,"$542,000","1,560","$406,000","1,560","Nov 13, 2020",Walt Disney Studios Motion Pictures,Marvel Comics
-206,207,Mishima: A Life in Four Chapters,"$437,547",14,-,14,"Sep 13, 1985",Warner Bros.,Lucasfilm
-207,208,Iron Man2020 Re-release,"$430,000",462,"$430,000",462,"Jul 17, 2020",Walt Disney Pictures,Marvel Comics
-208,209,Black Panther2020 Re-release,"$367,000",421,"$367,000",421,"Jul 10, 2020",Walt Disney Pictures,Marvel Comics
-209,210,Frozen2020 Re-release,"$215,000","1,367","$120,000","1,367","Nov 25, 2020",Walt Disney Studios Motion Pictures,Walt Disney Animation Studios
-210,211,Tucker: The Man and His Dream2022 Re-release,"$3,475",8,"$1,728",8,"Sep 16, 2022",Rialto Distribution,Lucasfilm
+187,188,Raiders of the Lost Ark2012 IMAX Release,"$3,125,613",322,"$1,673,731",322,"Sep 7, 2012",Paramount Pictures,Lucasfilm
+188,189,Star Wars: Episode V - The Empire Strikes Back2020 Re-release,"$2,482,000","2,097","$611,000","2,097","Jul 10, 2020",Walt Disney Studios Motion Pictures,Lucasfilm
+189,190,Inhumans,"$1,521,787",393,"$1,135,440",393,"Sep 1, 2017",IMAX,Marvel Comics
+190,191,Turning Red,"$1,399,001","1,560","$578,047","1,560","Feb 9, 2024",Walt Disney Studios Motion Pictures,Pixar
+191,192,Rogue One: A Star Wars Story2022 Re-release,"$1,362,667",255,"$1,060,459",255,"Aug 26, 2022",Walt Disney Studios Motion Pictures,Lucasfilm
+192,193,Luca,"$1,324,302","1,390",-,"1,390","Jun 18, 2021",Walt Disney Studios Motion Pictures,Pixar
+193,194,Radioland Murders,"$1,316,865",844,"$835,570",844,"Oct 21, 1994",Universal Pictures,Lucasfilm
+194,195,Labyrinth2018 Re-release,"$993,336",685,"$558,857",685,"Apr 29, 2018",Fathom Events,Lucasfilm
+195,196,Soul,"$946,154","1,360","$431,840","1,360","Jan 12, 2024",Walt Disney Studios Motion Pictures,Pixar
+196,197,Toy Story2020 Re-release,"$727,000","2,102","$505,000","2,102","Nov 6, 2020",Walt Disney Studios Motion Pictures,Pixar
+197,198,"Monsters, Inc.2020 Re-release","$726,000","1,875","$494,000","1,875","Oct 23, 2020",Walt Disney Studios Motion Pictures,Pixar
+198,199,Guardians of the Galaxy2020 Re-release,"$542,000","1,560","$406,000","1,560","Nov 13, 2020",Walt Disney Studios Motion Pictures,Marvel Comics
+199,200,Mishima: A Life in Four Chapters,"$437,547",14,-,14,"Sep 13, 1985",Warner Bros.,Lucasfilm
+200,201,Iron Man2020 Re-release,"$430,000",462,"$430,000",462,"Jul 17, 2020",Walt Disney Pictures,Marvel Comics
+201,202,Black Panther2020 Re-release,"$367,000",421,"$367,000",421,"Jul 10, 2020",Walt Disney Pictures,Marvel Comics
+202,203,Frozen2020 Re-release,"$215,000","1,367","$120,000","1,367","Nov 25, 2020",Walt Disney Studios Motion Pictures,Walt Disney Animation Studios
+203,204,Tucker: The Man and His Dream2022 Re-release,"$3,475",8,"$1,728",8,"Sep 16, 2022",Rialto Distribution,Lucasfilm
