@@ -16,6 +16,6 @@ As I said before, the MCU is not the only contributor to Disney stock fluctuatio
 + [DisneyToon Studios](https://www.boxofficemojo.com/brand/bn4185061890/) – A division of Disney, although it was closed in 2018.
 + [Disneynature](https://www.boxofficemojo.com/brand/bn3245537794/) – This is a film label of Walt Disney Studios.
 
-So I combined all that data into an aggregate dataset and reset all the ranks to reflect the Gross Income again: [disney_owned_movies.csv](https://github.com/KimmyBeeW/marvel-movies-web-scraping/blob/main/datasets/disney_owned_movies.csv)
+I combined all that data into an aggregate dataset and reset all the ranks to reflect the Gross Income again: [disney_owned_movies.csv](https://github.com/KimmyBeeW/marvel-movies-web-scraping/blob/main/datasets/disney_owned_movies.csv)
 
 I'll do some Data Visualization soon, but enjoy looking at the data in the meantime!
